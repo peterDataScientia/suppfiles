@@ -1,0 +1,18 @@
+{
+  "n_studies": 13,
+  "n_pairs": 46,
+  "spearman": 0.7992844943165022,
+  "compound_geometric_ratio": 0.5202710491567258,
+  "study_geometric_ratio": 1.339398494190259,
+  "study_bootstrap_CI_low": 0.6825933760622481,
+  "study_bootstrap_CI_high": 2.673436996342839,
+  "n_HPU_lower": 32,
+  "without_Odake_pairs": 17,
+  "without_Odake_studies": 12,
+  "without_Odake_compound_ratio": 1.3032664449927192,
+  "without_Odake_spearman": 0.8424281166493675,
+  "study_level_spearman": 0.8021978021978022,
+  "AHA_JBU_uM": 247.76874916744373,
+  "AHA_HPU_uM": 255.76128946316774,
+  "AHA_ratio": 1.0322580645161292
+}
