@@ -1,7 +1,7 @@
-# Supplementary Table S5 — Final documentary adjudication
+# Supplementary Table S5 — Study quality assessment
 
-The S5 assessment covers 13 studies and 78 criterion-level decisions (six criteria per study). Ratings from Author 1 and the independent second assessment were retained. Four disagreements were resolved using source-linked evidence and adjudication rationale. The final ratings are incorporated in the primary S5 summary and detailed CSV.
+Quality assessment comprises 13 studies evaluated against six criteria per study (78 criterion-level judgments). Source locations, supporting evidence, and the final criterion ratings are supplied in the accompanying tables.
 
-Final rating counts: {'Fulfilled': 59, 'Partially fulfilled': 17, 'Not established': 2}.
+Final rating distribution: 59 fulfilled, 17 partially fulfilled, and 2 not established.
 
-**Scope:** This is a finalized documentary synthesis of the two assessment records. It does not constitute confirmation of an actual discussion or authorization by two human coauthors. Where the source text does not establish a method, the rating describes the available evidence rather than certainty that the method was absent. The audit trail and source-verification qualifications remain available in S5_Final_Adjudicated_78.csv.
+The ratings describe evidence documented in the cited sources. A criterion marked *not established* indicates that the available source evidence does not establish the corresponding method or reporting element; it is not proof that the method was absent. The available records do not independently demonstrate a human coauthor discussion or approval.
